@@ -1,2 +1,1 @@
-# snapchat
-snapchat clone (study projects)
+# Snapchat
